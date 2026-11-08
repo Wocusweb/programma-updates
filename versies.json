@@ -1,12 +1,16 @@
 {
   "programmas": {
     "roosterroos": {
-      "versie": "0.180.2",
-      "datum": "2026-11-04",
-      "sha256": "0980674aeeaa702fd0f2a4edf82983979a0552dce1c0c4de4b020def9afc3827",
-      "grootte": 40627857,
+      "versie": "0.186.3",
+      "datum": "2026-11-08",
+      "sha256": "a04194c2786790f0501d82d1df7afcd005d2d00c1f36c7fa88455d21515e785f",
+      "grootte": 40665698,
       "nieuw": [
-        "Proefversie om het bijwerken uit te proberen."
+        "Jaarrooster verbeterd: gelijke blokken naast elkaar worden één blok en blokken met dezelfde naam krijgen dezelfde kleur.",
+        "Weekrooster: de panelen klap je in en uit met smalle lijnen met een pijltje.",
+        "Blok bewerken verbeterd: met de nieuwe knop Les niet af komt dezelfde les de volgende keer terug, en Les ruilen staat naast het lesveld.",
+        "Vak bewerken opnieuw ingedeeld, met het nieuwe venster Aangepaste instellingen. Daarin geef je thema's en lessen een eigen naam en lesdoel.",
+        "Zip met versienummer in de naam."
       ]
     }
   }
