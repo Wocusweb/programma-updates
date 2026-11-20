@@ -1,16 +1,13 @@
 {
   "programmas": {
     "roosterroos": {
-      "versie": "0.186.3",
-      "datum": "2026-11-08",
-      "sha256": "a04194c2786790f0501d82d1df7afcd005d2d00c1f36c7fa88455d21515e785f",
-      "grootte": 40665698,
+      "versie": "0.190.0",
+      "datum": "2026-11-20",
+      "sha256": "a491d8f4395faea5eecec5fe135a24b7cd93c33893d9eaa49169a32789f53f46",
+      "grootte": 40760379,
       "nieuw": [
-        "Jaarrooster verbeterd: gelijke blokken naast elkaar worden één blok en blokken met dezelfde naam krijgen dezelfde kleur.",
-        "Weekrooster: de panelen klap je in en uit met smalle lijnen met een pijltje.",
-        "Blok bewerken verbeterd: met de nieuwe knop Les niet af komt dezelfde les de volgende keer terug, en Les ruilen staat naast het lesveld.",
-        "Vak bewerken opnieuw ingedeeld, met het nieuwe venster Aangepaste instellingen. Daarin geef je thema's en lessen een eigen naam en lesdoel.",
-        "Zip met versienummer in de naam."
+        "Nieuwe knop Groepskaart in Leerlingen: per vak de leerlingen op vaardigheidsscore, met eigen groepjes en afdrukken als PDF",
+        "Open sleepdoelen staan in de uitdraai van de Verrijkte dagplanning op een eigen voorblad"
       ]
     }
   }
